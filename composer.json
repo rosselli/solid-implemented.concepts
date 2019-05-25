@@ -1,0 +1,13 @@
+{
+    "name": "rosselli/solid",
+    "authors": [
+        {
+            "name": "Flavio Rosselli",
+            "email": "rosselli00@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "phpunit/php-code-coverage": "*"
+    }
+}
