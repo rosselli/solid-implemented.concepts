@@ -3,10 +3,10 @@
 
 ## Principles
 + SRP: [Single Responsibility Principle](principles/single-responsibility/readme.md)
-+ OCP: [Open-Closed Principle](_toOrganize/open-closed/readme.md)
-+ LSP: [Liskov Substitution Principle](_toOrganize/liskov-substitution/readme.md)
-+ ISP: [Interface Segregation Principle](_toOrganize/interface-segregation/readme.md)
-+ DIP: [Dependency Inversion Principle](_toOrganize/dependency-inversion/readme.md)
++ OCP: [Open-Closed Principle](principles/open-closed/readme.md)
++ LSP: [Liskov Substitution Principle](principles/liskov-substitution/readme.md)
++ ISP: [Interface Segregation Principle](principles/interface-segregation/readme.md)
++ DIP: [Dependency Inversion Principle](principles/dependency-inversion/readme.md)
 
 ## Extra
 + Law of Demeter
