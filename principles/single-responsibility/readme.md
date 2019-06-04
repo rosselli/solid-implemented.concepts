@@ -1,5 +1,7 @@
 # Single Responsibility Principle (SRP)
 
+This principle is about actors and high level architecture.
+
 ## Classes
 
 + A class and methods must **represent a single entity** should **have only a single responsibility** (Cohesion).
