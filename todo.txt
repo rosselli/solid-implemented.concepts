@@ -1,5 +1,0 @@
-create a test for SRP
-create a test for OCP
-create a test for LSP
-create a test for ISP
-create a test for DIP

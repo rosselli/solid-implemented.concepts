@@ -1,5 +1,8 @@
 # S.O.L.I.D.
 
+The Tested Implementation of S.O.L.I.D.'s five principles.
+
+Sources: [Wataridori](https://github.com/wataridori/solid-php-example) and [Wikipedia](https://en.wikipedia.org/wiki/SOLID)
 
 ## Principles
 + SRP: [Single Responsibility Principle](principles/single-responsibility/readme.md)
@@ -11,6 +14,4 @@
 ## Extra
 + Law of Demeter
 
-## Sources
-+ [Wataridori](https://github.com/wataridori/solid-php-example)
-+ [Wiki](https://en.wikipedia.org/wiki/SOLID)
+
