@@ -8,4 +8,4 @@ This principle is about subtyping and inheritance.<br>
 
 + *If S is a subtype of T, then objects of T may be replaced with objects of S without altering any of the desirable properties of that program.*
 
-+ *If it looks like a duck, quacks like a duck, but needs battery, you problaby have the wrong abstraction.*
++ *If it looks like a duck, quacks like a duck, but needs a battery, you probably have the wrong abstraction.*
